@@ -1,4 +1,4 @@
-# 🤖 Hi, I'm Ejiro | AI Automation Engineer
+## 🤖 Hi, I'm Ejiro | AI Automation Engineer
 I specialize in building autonomous agentic systems and high-scale workflows that bridge the gap between LLM intelligence and real-world business logic. My focus is on creating deterministic, reliable AI systems that solve complex operational bottlenecks.
 
 ## 🛠️ The Automation Suite: Project Matrix

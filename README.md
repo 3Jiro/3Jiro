@@ -1,7 +1,7 @@
 # 🤖 Hi, I'm Ejiro | AI Automation Engineer
 I specialize in building autonomous agentic systems and high-scale workflows that bridge the gap between LLM intelligence and real-world business logic. My focus is on creating deterministic, reliable AI systems that solve complex operational bottlenecks.
 
-# 🛠️ The Automation Suite: Project Matrix
+## 🛠️ The Automation Suite: Project Matrix
 
 | Capability | Project | Engineering Challenge Solved | Tech Stack |
 | :--- | :--- | :--- | :--- |
@@ -12,7 +12,7 @@ I specialize in building autonomous agentic systems and high-scale workflows tha
 | **Data Engineering** | [Apify Data Injector](https://github.com/3Jiro/Apify-web-scraper) | Scalable web-scraping & Upsert logic | n8n > Apify > Sheets |
 | **Content Pipeline** | [AI SaaS + HTTP](https://github.com/3Jiro/AI-SAAS-HTTP) | Multi-stage prompt engineering & Vision | n8n > DALL-E > HTTP API |
 
-# 🚀 Technical Expertise
+## 🚀 Technical Expertise
 - LLM Orchestration: Designing autonomous loops (Planner-Reviewer) and tool-calling agents.
 
 - Vector Architecture: Implementing RAG pipelines with Pinecone and recursive character splitting.
@@ -21,10 +21,10 @@ I specialize in building autonomous agentic systems and high-scale workflows tha
 
 - API Integration: Deep experience with Webhooks, OAuth2, and RESTful service orchestration (Gmail, Slack, Telegram).
 
-# 📈 Current Focus
+## 📈 Current Focus
 I am currently scaling AIRRE (Automated Intelligence-Driven Research & Reporting Engine), a system designed for high-precision document chunking and searchable indexing to turn massive data sets into actionable reports.
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 Upwork: 
 
 Email: 35aejiro@gmail.com

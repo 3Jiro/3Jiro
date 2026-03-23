@@ -5,12 +5,12 @@ I specialize in building autonomous agentic systems and high-scale workflows tha
 
 | Capability | Project | Engineering Challenge Solved | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| **Agentic Logic** | [Multi-Agent Orchestrator](#) | Planner-Executor-Reviewer loops & State Mgmt | n8n > Gemini > JS |
-| **Reliable Support** | [Enterprise AI Rep](#) | Hallucination control via Verified Logic | n8n > Webhooks > Sheets |
-| **Knowledge Mgmt** | [RAG Knowledge Base](#) | Semantic search & document ingestion | n8n > Pinecone > Gemini |
-| **Operational Health** | [Incident Resolver](#) | Self-healing DevOps & automated auditing | n8n > Slack > Gemini |
-| **Data Engineering** | [Apify Data Injector](#) | Scalable web-scraping & Upsert logic | n8n > Apify > Sheets |
-| **Content Pipeline** | [AI SaaS + HTTP](#) | Multi-stage prompt engineering & Vision | n8n > DALL-E > HTTP API |
+| **Agentic Logic** | [Multi-Agent Orchestrator](https://github.com/3Jiro/AI-Multi-Agent-Workflow) | Planner-Executor-Reviewer loops & State Mgmt | n8n > Gemini > JS |
+| **Reliable Support** | [Enterprise AI Rep](https://github.com/3Jiro/AI-customer-support-service-) | Hallucination control via Verified Logic | n8n > Webhooks > Sheets |
+| **Knowledge Mgmt** | [RAG Knowledge Base](https://github.com/3Jiro/RAG-AGENT) | Semantic search & document ingestion | n8n > Pinecone > Gemini |
+| **Operational Health** | [Incident Resolver](https://github.com/3Jiro/AI-Incident-Resolver) | Self-healing DevOps & automated auditing | n8n > Slack > Gemini |
+| **Data Engineering** | [Apify Data Injector](https://github.com/3Jiro/Apify-web-scraper) | Scalable web-scraping & Upsert logic | n8n > Apify > Sheets |
+| **Content Pipeline** | [AI SaaS + HTTP](https://github.com/3Jiro/AI-SAAS-HTTP) | Multi-stage prompt engineering & Vision | n8n > DALL-E > HTTP API |
 
 # 🚀 Technical Expertise
 - LLM Orchestration: Designing autonomous loops (Planner-Reviewer) and tool-calling agents.

@@ -25,6 +25,6 @@ I specialize in building autonomous agentic systems and high-scale workflows tha
 I am currently scaling AIRRE (Automated Intelligence-Driven Research & Reporting Engine), a system designed for high-precision document chunking and searchable indexing to turn massive data sets into actionable reports.
 
 ## 📫 Let's Connect
-Upwork: 
+Upwork: https://www.upwork.com/freelancers/~019f214691222c5c73?mp_source=share
 
 Email: 35aejiro@gmail.com
